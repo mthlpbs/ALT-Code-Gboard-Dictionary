@@ -46,9 +46,3 @@ To use the alt codes, simply type the word that corresponds to the symbol you wa
 ## License 📝
 
 This project is licensed under the Unlicense license. This means you can use it for any purpose, without any restrictions or obligations.
-
-## Author 👤
-
-This project was created by [asurpbs](https://github.com/asurpbs), a passionate developer who loves coding and learning new things.
-
-If you like this project,
