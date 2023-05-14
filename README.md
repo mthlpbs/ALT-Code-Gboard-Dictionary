@@ -46,3 +46,14 @@ To use the alt codes, simply type the word that corresponds to the symbol you wa
 ## License 📝
 
 This project is licensed under the Unlicense license. This means you can use it for any purpose, without any restrictions or obligations.
+
+## How to contribute
+
+If you want to contribute to this project, you are welcome to do so. Here are some steps you can follow:
+
+1. Fork this repository and clone it to your local machine.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with a descriptive message.
+4. Push your branch to your forked repository.
+5. Create a pull request from your branch to the main branch of this repository.
+6. Wait for the review and feedback.
